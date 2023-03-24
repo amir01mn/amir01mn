@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amir01mn
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for summer co-op 2023
 - 📫 How to reach me via my email amir01mansouri@gmail.com
 
 <!---
