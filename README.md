@@ -1,6 +1,6 @@
 <!-- Profile README for amir01mn -->
 <h1 align="center">Hi there 👋, I'm Amir</h1>
-<h3 align="center">Final-year CS student | Software Engineer | AI & Automation Enthusiast</h3>
+<h3 align="center">Final-year CS student @York University| Software Engineer | AI & Automation Enthusiast</h3>
 
 ---
 
