@@ -1,17 +1,13 @@
 <!-- Profile README for amir01mn -->
 <h1 align="center">Hi there 👋, I'm Amir</h1>
-<h3 align="center">Final-year CS student | Backend Developer | AI & Automation Enthusiast</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amir01mn&theme=tokyonight&hide_border=true" />
-</p>
+<h3 align="center">Final-year CS student | Software Engineer | AI & Automation Enthusiast</h3>
 
 ---
 
 ### 🧠 About Me
 
 - 🔭 I’m currently working on a **React + Rails full-stack Todo app**
-- 🛠 I previously interned at **Moneris**, where I:
+- 🛠 I previously interned at **Moneris** as a Software Engineer where I:
   - Automated file comparisons using **Java**
   - Reduced QA testing time by **60%**
   - Worked with **Kafka**, **SQL**, and **CI/CD tools like Azure DevOps**
